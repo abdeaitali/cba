@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# do not put solution for the following file TNK126_CBA_inl.ipynb
+TNK126_CBA_inl.ipynb
+
 # C extensions
 *.so
 
